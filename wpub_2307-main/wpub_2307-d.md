@@ -1,2 +1,0 @@
-Hey, this is aws public md file 
-aws instance - public repo - md file : deleted
